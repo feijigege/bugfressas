@@ -1,0 +1,1 @@
+open_basedir="E:\myobject\own\bugfree\bugfree\bugfree\;D:\php5.6\memcached\;D:\php5.6\phpmyadmin\;D:\php5.6\temp\;C:\Windows\Temp\"
